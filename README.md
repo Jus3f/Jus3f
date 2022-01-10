@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jus3f
+- 👋 Hi, I’m Youssef
 - 👀 I’m interested in web dev
 - 🌱 I’m currently learning JavaScript and its related stuff
 
